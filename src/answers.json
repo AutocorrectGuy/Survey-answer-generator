@@ -1,0 +1,5 @@
+[
+  { "option": "18-25", "chance": 0.85 },
+  { "option": "26-40", "chance": 0.10 },
+  { "option": ">40", "chance": 0.05 }
+]
