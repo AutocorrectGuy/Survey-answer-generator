@@ -1,6 +1,7 @@
 # Anketu ģenerators
 
 Izveidos anketu rezultātus balstoties uz 'weighted random' matemātikas kombinatorikas teoriju. <br/>
+Izvades formāts: JSON.
 Teorijas avots: https://zliu.org/post/weighted-random/
 
 ---
