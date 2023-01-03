@@ -1,4 +1,4 @@
-# Anketu ģenerators
+# Anketu atbilžu ģenerators
 
 Izveidos anketu rezultātus balstoties uz 'weighted random' matemātikas kombinatorikas teoriju. <br/>
 Izvades formāts: JSON.
